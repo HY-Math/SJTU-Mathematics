@@ -4,12 +4,13 @@
 
 ## 网络资源 <a href="#internet-source" id="internet-source"></a>
 
-* [📚 电子书](internet-source/dian-zi-shu.md)
-* [🎆 有用的网站](internet-source/you-yong-de-wang-zhan.md)
+* [电子书](internet-source/dian-zi-shu.md)
+* [有用的网站](internet-source/you-yong-de-wang-zhan.md)
 
 ## 软件资源 <a href="#software-source" id="software-source"></a>
 
 * [LaTeX](software-source/latex.md)
+* [Mathematica](software-source/mathematica.md)
 
 ## 课程信息 <a href="#courses" id="courses"></a>
 
