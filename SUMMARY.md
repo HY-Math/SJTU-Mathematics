@@ -9,7 +9,7 @@
 
 ## 软件资源 <a href="#software-source" id="software-source"></a>
 
-* [Page 1](software-source/page-1.md)
+* [LaTeX](software-source/latex.md)
 
 ## 课程信息 <a href="#courses" id="courses"></a>
 
