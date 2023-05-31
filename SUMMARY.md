@@ -2,15 +2,11 @@
 
 * [README](README.md)
 
-## 网络资源 <a href="#internet-source" id="internet-source"></a>
+## 资源 <a href="#sources" id="sources"></a>
 
-* [电子书](internet-source/dian-zi-shu.md)
-* [有用的网站](internet-source/you-yong-de-wang-zhan.md)
-
-## 软件资源 <a href="#software-source" id="software-source"></a>
-
-* [LaTeX](software-source/page-1.md)
-* [Mathematica](software-source/mathematica.md)
+* [电子书](sources/dian-zi-shu.md)
+* [有用的网站](sources/you-yong-de-wang-zhan.md)
+* [软件](sources/ruan-jian.md)
 
 ## 课程信息 <a href="#courses" id="courses"></a>
 
