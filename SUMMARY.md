@@ -9,7 +9,7 @@
 
 ## 软件资源 <a href="#software-source" id="software-source"></a>
 
-* [LaTeX](software-source/latex.md)
+* [LaTeX](software-source/page-1.md)
 * [Mathematica](software-source/mathematica.md)
 
 ## 课程信息 <a href="#courses" id="courses"></a>
