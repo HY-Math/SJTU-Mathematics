@@ -4,8 +4,8 @@
 
 ## 资源 <a href="#sources" id="sources"></a>
 
-* [电子书](sources/dian-zi-shu.md)
-* [有用的网站](sources/you-yong-de-wang-zhan.md)
+* [电子书](internet-source/dian-zi-shu.md)
+* [有用的网站](internet-source/you-yong-de-wang-zhan.md)
 * [软件](sources/ruan-jian.md)
 
 ## 课程信息 <a href="#courses" id="courses"></a>
