@@ -15,6 +15,11 @@
 ## 数学书籍交流 <a href="#books" id="books"></a>
 
 * [分析篇](books/fen-xi-pian.md)
+* [代数篇](books/dai-shu-pian.md)
+* [几何篇](books/ji-he-pian.md)
+* [计算篇](books/ji-suan-pian.md)
+* [随机篇](books/sui-ji-pian.md)
+* [科普读物篇](books/ke-pu-du-wu-pian.md)
 
 ## 大家的去向 <a href="#future" id="future"></a>
 
