@@ -33,7 +33,3 @@
 ## 访谈录 <a href="#talks" id="talks"></a>
 
 * [Page 4](talks/page-4.md)
-
-## 杂七杂八 <a href="#mess" id="mess"></a>
-
-* [实用工具](mess/shi-yong-gong-ju.md)
